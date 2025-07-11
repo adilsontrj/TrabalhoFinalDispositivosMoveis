@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <item
+        android:icon="@drawable/voltar"
+        android:title="Voltar"
+        android:id="@+id/voltar"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:icon="@drawable/home"
+        android:title="Home"
+        android:id="@+id/home"
+        app:showAsAction="always"
+        />
+    <item
+        android:icon="@drawable/login"
+        android:title="Login"
+        android:id="@+id/login"
+        app:showAsAction="always"
+        />
+
+
+</menu>
